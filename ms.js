@@ -2006,3 +2006,369 @@
     function kk(){
         alert(lolz.value);
     }
+var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }var baaaaaaaaa
+   function kk(){
+        alert(ba.value);
+     baaaaaaaaa = document.getElementById('joeg');
+    }
+// Banana Blast!
